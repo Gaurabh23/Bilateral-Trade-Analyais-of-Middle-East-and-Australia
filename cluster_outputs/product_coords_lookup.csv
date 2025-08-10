@@ -1,0 +1,98 @@
+Product,Cluster,PCA1,PCA2
+"Aircraft, spacecraft, and parts thereof",0,-0.1153793884651681,-2.0660326273610976
+Albuminoidal substances; modified starches; glues; enzymes,0,-0.3703332379290502,0.6934345787710554
+Aluminium and articles thereof,0,-0.923509438339675,-0.5665608289847586
+"Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; ...",0,-0.6760556241388443,2.1452041085282554
+Arms and ammunition; parts and accessories thereof,0,-3.0528169073026827,0.7885901816384346
+"Articles of apparel and clothing accessories, knitted or crocheted",0,-0.1975633702766539,-0.5986769998532934
+"Articles of apparel and clothing accessories, not knitted or crocheted",0,-0.023103660633838466,-0.9481916916619088
+Articles of iron or steel,0,-0.47758447669660004,-0.8541696025941518
+"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles ...",0,0.1467631513782233,0.2644790410583103
+"Articles of stone, plaster, cement, asbestos, mica or similar materials",0,-0.36946980107117244,-1.036030990646343
+"Beverages, spirits and vinegar",0,0.3903453717254833,0.7488985759429438
+Carpets and other textile floor coverings,0,-0.25326435751110044,-0.9244132157121867
+Ceramic products,0,-0.3201285529779455,-1.0873157322845992
+Cereals,0,-0.24388560942880366,1.698799493265001
+Clocks and watches and parts thereof,0,0.7902438724193972,-1.343936704827687
+Cocoa and cocoa preparations,0,0.2260135831212935,0.701699867211563
+"Coffee, tea, maté and spices",0,0.19814597294092706,1.3142160062663804
+Commodities not elsewhere specified,1,9.389094062943844,1.2856540675003152
+Copper and articles thereof,0,-0.779729691897144,-0.46552255759922284
+Cork and articles of cork,0,-1.532982632705688,0.9633941185766793
+Cotton,0,-0.14137196062715815,-0.8256995865646365
+"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere ...",0,0.2932101884530282,1.3462199091678808
+Edible fruit and nuts; peel of citrus fruit or melons,0,0.7404669286956237,0.7822418022429365
+Edible vegetables and certain roots and tubers,0,0.33602744516139327,1.2335962905055757
+"Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television ...",0,2.2928871106054505,-1.770059106719731
+"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",0,0.4309043591107735,0.32426894999918504
+Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,0,-0.05894391723868107,0.7871913949498177
+Fertilisers,0,-0.5870126619334098,1.7935967765675294
+"Fish and crustaceans, molluscs and other aquatic invertebrates",0,0.5564220258605832,1.0762578076449472
+"Footwear, gaiters and the like; parts of such articles",0,-0.07245546902195567,-0.5549230176210153
+"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; ...",0,-0.5951069372216652,-1.9834152653347576
+Furskins and artificial fur; manufactures thereof,0,0.9576885290046773,-2.0261572384456144
+Glass and glassware,0,-0.3989487165368075,-0.924693994980902
+Headgear and parts thereof,0,-0.9441284288074246,-0.03319396628614589
+"Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable ...",0,-0.2298841843238552,-0.6424761563133411
+"Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, ...",0,-0.6447388695426709,1.7131889309213975
+Iron and steel,0,-0.716254510767356,-0.477215938743641
+Knitted or crocheted fabrics,0,-0.4080380757357664,-0.6104386757337009
+"Lac; gums, resins and other vegetable saps and extracts",0,0.048593201061242035,1.1565747025921873
+Lead and articles thereof,0,-0.8944999062107087,-1.1941267024133144
+Live animals,0,0.2335418279646513,1.1574003870470708
+"Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage",0,0.3088865482859453,1.0767563516965435
+Man-made filaments; strip and the like of man-made textile materials,0,-0.18016627209403605,-0.2780883531005545
+Man-made staple fibres,0,-0.10563416065912122,-0.6124357551393369
+"Manufactures of straw, of esparto or of other plaiting materials; basketware and wickerwork",0,0.14074303087299334,-0.3149496272630548
+Meat and edible meat offal,0,0.4781578940081542,1.474076136108563
+"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral ...",0,0.8345125110533939,3.146979484628408
+Miscellaneous articles of base metal,0,-0.6199285607229656,-1.2810484216183915
+Miscellaneous chemical products,0,-0.060367292906549255,0.33450030180682594
+Miscellaneous edible preparations,0,-0.0782279194115227,1.027433904192824
+Miscellaneous manufactured articles,0,-0.7010242882652541,-1.84666995627312
+Musical instruments; parts and accessories of such articles,0,-0.8631320961390252,-1.396312916329974
+"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad ...",1,12.809324321345713,-0.5810481513070879
+Nickel and articles thereof,0,-1.5818641355190683,-0.19922657829428347
+"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",0,0.9421749448907399,-1.68510705644258
+"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal ...",0,-0.6594242123921061,2.264988251216245
+"Optical, photographic, cinematographic, measuring, checking, precision, medical or surgical ...",0,-0.49891290465759647,-1.717966361714498
+"Ores, slag and ash",0,-0.5173701933073003,1.2458237484719161
+Organic chemicals,0,-0.21534132649217214,0.9473221510178552
+Other base metals; cermets; articles thereof,0,-1.1739191542988314,-0.47882951745375246
+Other made-up textile articles; sets; worn clothing and worn textile articles; rags,0,0.256789955941684,-1.4081398213539553
+Other vegetable textile fibres; paper yarn and woven fabrics of paper yarn,0,-0.75961319270454,-0.005726106915760129
+"Paper and paperboard; articles of paper pulp, of paper or of paperboard",0,-0.09021027155883167,-0.30276217076986706
+Pharmaceutical products,0,0.049198536935488466,0.6573458151445236
+Photographic or cinematographic goods,0,0.32859896462235166,-0.3478273297609693
+Plastics and articles thereof,0,0.16771582682994113,0.1631707323451876
+"Preparations of cereals, flour, starch or milk; pastrycooks' products",0,-0.0584260960216097,0.9067154389312824
+"Preparations of meat, of fish, of crustaceans, molluscs or other aquatic invertebrates, or ...",0,0.412720381728476,0.7091598663518259
+"Preparations of vegetables, fruit, nuts or other parts of plants",0,-0.09433757880628843,0.8535128071308886
+Prepared feathers and down and articles made of feathers or of down; artificial flowers; articles ...,0,-0.4315982061031414,-0.42011143966626696
+"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, ...",0,0.19389848756723133,-0.5850513150366612
+"Products of animal origin, not elsewhere specified or included",0,0.5252904988679126,0.9791950255599823
+Products of the milling industry; malt; starches; inulin; wheat gluten,0,-0.3932795127195836,1.9792212723116516
+Pulp of wood or of other fibrous cellulosic material; recovered (waste and scrap) paper or ...,0,-0.45552392045431006,0.33184170479366154
+"Railway or tramway locomotives, rolling stock and parts thereof; railway or tramway track fixtures ...",0,-1.383176498944438,-0.7992095138771484
+Raw hides and skins (other than furskins) and leather,0,0.31294460091859994,-0.7989403504038338
+Residues and waste from the food industries; prepared animal fodder,0,-0.1498609892483206,1.3638270906402024
+Rubber and articles thereof,0,-0.030269296020407857,0.1545172445527321
+"Salt; sulphur; earths and stone; plastering materials, lime and cement",0,-0.39787186869589586,1.280087946156757
+"Ships, boats and floating structures",0,-0.49953001214457915,-1.8342460301039367
+Silk,0,-0.13951151063651565,-0.4382908906999034
+"Soap, organic surface-active agents, washing preparations, lubricating preparations, artificial ...",0,0.14520764718109064,0.20863702731967862
+Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery,0,-0.02244209901743,-0.8961645897753395
+Sugars and sugar confectionery,0,-0.4169965253743017,2.0048979407442653
+"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring ...",0,0.23626282164350837,0.06095119659543692
+Tin and articles thereof,0,-1.3620089132430802,-0.35319438852936297
+"Tobacco and manufactured tobacco substitutes; products, whether or not containing nicotine, ...",0,-2.5781544387510587,1.659120938119622
+"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",0,-0.5408409210340849,-1.364960504296864
+"Toys, games and sports requisites; parts and accessories thereof",0,-1.029529491104253,-1.1625482514640038
+"Umbrellas, sun umbrellas, walking sticks, seat-sticks, whips, riding-crops and parts thereof",0,-0.27644537329464175,-0.530007103387282
+Vegetable plaiting materials; vegetable products not elsewhere specified or included,0,-0.9898741215439939,2.5052406050404463
+"Vehicles other than railway or tramway rolling stock, and parts and accessories thereof",0,0.4378155435857417,-1.5080458690596605
+"Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",0,-0.06433617221631567,-0.728151214113764
+Wood and articles of wood; wood charcoal,0,-0.13756104367134817,-0.17101060932727552
+"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",0,-0.04127385538041128,-0.8244413558129327
+"Works of art, collectors' pieces and antiques",0,-0.30078901448614437,-2.3347076494577714
+Zinc and articles thereof,0,-0.6846263193426546,-1.1717601718435502
