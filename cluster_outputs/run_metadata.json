@@ -1,0 +1,39 @@
+{
+  "RAW_IN_PATH": "cleaned_trade_master.csv",
+  "PCA_OUT_PATH": "cleaned_trade_master_with_pca.csv",
+  "AGG_METHOD": "weighted",
+  "WEIGHT_COL": "Value_2023",
+  "K_RANGE": [
+    2,
+    9
+  ],
+  "RANDOM_STATE": 42,
+  "DescriptivePCNames": {
+    "PC1": "Overall_Trade_Scale_and_Market_Share",
+    "PC2": "Trade_Profile_and_Market_Orientation",
+    "PC3": "Growth_and_Competitiveness",
+    "PC4": "Global_Position_and_Logistics_Factor",
+    "PC5": "Tariff_and_Trade_Policy_Impact",
+    "PC6": "Distance_Adjusted_Growth_Effect",
+    "PC7": "Regional_Concentration_Dynamics",
+    "PC8": "Market_Share_Sensitivity",
+    "PC9": "Policy_Driven_Trade_Variation",
+    "PC10": "Tariff_Residual_Effect"
+  },
+  "PCA_Columns_Present": [
+    "Overall_Trade_Scale_and_Market_Share",
+    "Trade_Profile_and_Market_Orientation",
+    "Growth_and_Competitiveness",
+    "Global_Position_and_Logistics_Factor",
+    "Tariff_and_Trade_Policy_Impact",
+    "Distance_Adjusted_Growth_Effect",
+    "Regional_Concentration_Dynamics",
+    "Market_Share_Sensitivity",
+    "Policy_Driven_Trade_Variation",
+    "Tariff_Residual_Effect"
+  ],
+  "PlotAxes": {
+    "Axis1": "Aggregated_Trade_Profile_Axis1",
+    "Axis2": "Aggregated_Trade_Profile_Axis2"
+  }
+}
