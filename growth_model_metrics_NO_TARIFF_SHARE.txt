@@ -1,2 +1,0 @@
-Linear Regression  -> R2=0.9988, RMSE=2.06, MAE=1.26
-XGBoost Regressor -> R2=0.9759, RMSE=9.25, MAE=1.74
